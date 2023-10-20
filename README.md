@@ -5,7 +5,7 @@
 > ## ✏️ "Effective Java" 완전 정복
 
 <div align="center">
-  <img src="./assets/effective_java_cover.png" alt="effective java cover" width="300"/>
+  <img src="./assets/effective_java_cover.jpg" alt="effective java cover" width="300"/>
 </div>
 
 
