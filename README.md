@@ -46,9 +46,9 @@
 
 <div align="center">
 
-|     ![윤기](https://avatars.githubusercontent.com/u/89956603)     | ![정욱](https://avatars.githubusercontent.com/u/74192619) |![규헌](https://avatars.githubusercontent.com/u/76154390?v=4)|![승헌](https://avatars.githubusercontent.com/u/99643732)|![다민](https://avatars.githubusercontent.com/u/106113850)|![세은](https://avatars.githubusercontent.com/u/48899016)|
-|:---------------------------------------------------------------:|:-------------------------------------------------------:|:---:|:-----------------------------------------------------:|:------------------------------------------------------:|:---:|
-|                [윤기](https://github.com/Yg-Hong)                 |         [정욱](https://github.com/KIMSEI1124-dev)          | [규현](https://github.com/kgh2120)|           [승헌](https://github.com/olrlobt)            |            [다민](https://github.com/daminzzi)             | [세은](https://github.com/ChoiSeEun)| 
+|     ![윤기](https://avatars.githubusercontent.com/u/89956603)     | ![정욱](https://avatars.githubusercontent.com/u/74192619) |![규헌](https://avatars.githubusercontent.com/u/76154390?v=4)|![승헌](https://avatars.githubusercontent.com/u/99643732)|![다민](https://avatars.githubusercontent.com/u/106113850)|![세은](https://avatars.githubusercontent.com/u/48899016)|![명훈](https://avatars.githubusercontent.com/u/90785316?v=4) |
+|:---------------------------------------------------------------:|:-------------------------------------------------------:|:---:|:-----------------------------------------------------:|:------------------------------------------------------:|:---:|:---:|
+|                [윤기](https://github.com/Yg-Hong)                 |         [정욱](https://github.com/KIMSEI1124-dev)          | [규현](https://github.com/kgh2120)|           [승헌](https://github.com/olrlobt)            |            [다민](https://github.com/daminzzi)             | [세은](https://github.com/ChoiSeEun)| [명훈](https://github.com/ChaCha3088) |
 
 </div>
 
